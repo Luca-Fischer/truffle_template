@@ -2,6 +2,7 @@
 
 ```
 npm install
+npm install web3@0.20.6
 ```
 
 Create Contract
